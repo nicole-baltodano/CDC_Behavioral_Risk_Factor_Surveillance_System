@@ -30,3 +30,6 @@ Description:
 
 This dataset is focused solely on diabetes.
 Each column corresponds to distinct features, making it ready for direct analysis.
+
+# 📜 License
+This project is licensed under the MIT License.
