@@ -19,7 +19,6 @@ This dataset includes data on multiple health conditions and demographic factors
 The analysis focuses on filtering the Topic column for diabetes or other relevant health topics.
 Challenges:
 Restructuring the Break_Out and Break_Out_Category columns to create new features.
-Aggregating Sample_Size for meaningful insights is still a work in progress.
 
 ## 2️⃣ Diabetes-Specific BRFSS Data (2023)
 
